@@ -1,5 +1,5 @@
 <?php
 //includes
 
-
+echo "hi";
 ?>
