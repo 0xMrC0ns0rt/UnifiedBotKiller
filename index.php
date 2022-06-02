@@ -1,4 +1,5 @@
 <?php
 //includes
-//up1
+include "includes/connect.php";
+
 ?>
