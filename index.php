@@ -1,6 +1,5 @@
 <?php
 //includes
-
-echo "hi";
+include "includes/atbts/host.php";
 //
 ?>
